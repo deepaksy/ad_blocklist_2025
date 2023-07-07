@@ -1,0 +1,4 @@
+||adservice.google.co.in^$important
+||ad.doubleclick.net^$important
+||www.googleadservices.com^$important
+||adservice.google.com^$important
