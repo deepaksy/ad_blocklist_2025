@@ -1,0 +1,22 @@
+||adcolony.com^
+||adc3-assets.adcolony.com^
+||addapptr.com^
+||adsinter1.addealsnetwork.com^
+||doubleclick.gpg$regex
+||googleadservices.com^
+||googletagmanager.com^
+||adsense.com^
+||graph.facebook.com^$important
+||iad.apple.com^
+||iadsdk.apple.com^
+||advertising.apple.com^
+||banners.itunes.apple.com^
+# Malware/Phishing from URLHaus etc.
+||apiexplorerzone.com^
+||clicktopanel.app^
+||blacksaltys.com^
+||alenew1.com^
+||bstionline.com^
+||cryptohardware.shop^
+# Conficker / DNSChanger-style pseudo domains (DNS-based):
+# block all domains matching generated patterns – see security advisories
